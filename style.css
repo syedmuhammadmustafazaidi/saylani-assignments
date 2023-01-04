@@ -1,0 +1,43 @@
+.b{
+    background-color: rgb(241, 241, 241);
+}
+
+h1{
+    display: inline;
+    
+    }
+
+h4{
+     
+    background-color: red;
+    color: whitesmoke;
+    width: 38%;
+    position:fixed;
+top :75px;
+    
+    right: 800px;
+
+}
+p{
+   display: inline ;
+opacity:0.9 ;  
+color: rgb(43, 43, 43);
+  
+position:fixed;
+top :50px;
+right: 80px;
+word-spacing: 9px;
+}
+.qq{
+    background-image: (url('https://www.nts.org.pk/new/admin/uploads/slider/AJK_Slider1.jpg'));
+/* right: 100px; */
+width: 50%;
+
+}
+ 
+
+ #abc{
+    border-bottom: 10px;
+    border-color:  #f7cc40 ;
+    ;
+    border-width: 7px;
